@@ -1,0 +1,10 @@
+- complete auth setup
+- user has home page that shows its current projects
+- each project has collaborators, tasks (done, todo.. and also shows assignees) just like github
+- also has a realtime chat feature inside each project for the members
+- can invite collaborators with email only if they have an account too
+- customise project info (theme, ...)
+- has notification feature when some update done
+- basic nav utility and logout button
+- can use github api to link to projects already present on github... show issues and PRs (only open)
+-        
